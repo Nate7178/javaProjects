@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=TypingTutorFrame
+comment1.params=
+comment1.target=TypingTutorFrame()
+comment2.params=event
+comment2.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment3.params=event
+comment3.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment4.params=event
+comment4.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment5.params=event
+comment5.target=void\ focusLost(java.awt.event.FocusEvent)
+comment6.params=
+comment6.target=void\ createButtons()
+comment7.params=changeJButton
+comment7.target=void\ changeColor(javax.swing.JButton)
+comment8.params=
+comment8.target=void\ resetColor()
+numComments=9

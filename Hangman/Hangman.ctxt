@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Hangman
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=numOfTeams\ mathWords\ scienceWords\ englishWords\ historyWords\ artWords\ wordNum\ input\ winCount
+comment2.target=void\ playHangman(int,\ java.lang.String[],\ java.lang.String[],\ java.lang.String[],\ java.lang.String[],\ java.lang.String[],\ int,\ java.util.Scanner,\ int[])
+comment3.params=lettersGuessed\ guess
+comment3.target=void\ recordGuess(char[],\ char)
+comment4.params=correctLetters
+comment4.target=void\ printSpaces(char[])
+comment5.params=
+comment5.target=Categories\ selectCategory()
+comment6.params=categoryWords\ arrayInit
+comment6.target=void\ fillArray(java.lang.String[],\ Categories)
+comment7.params=numIncorrect\ currentTeam
+comment7.target=void\ printHangman(int[],\ int)
+comment8.params=lettersGuessed
+comment8.target=void\ printGuessed(char[])
+numComments=9
